@@ -4,3 +4,7 @@ body {
 #centro{
     text-align: center;
 }
+#foto{
+    position: relative;
+    margin-right: 50%;
+}
